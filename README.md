@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
-  <h1>¡Hola, soy [Tu Nombre/Nick]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-  <h3>[Tu Rol: Ej. Desarrollador Full Stack | Ingeniero de Software]</h3>
+  <h1>¡Hola, soy Karpux! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+  <h3>Desarrollador & Creador de Contenido</h3>
   
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://karpux.dev">
+    <img src="https://img.shields.io/badge/Website-karpux.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tu-usuario">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,12 +18,10 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu Proyecto o Empresa]**.
-- 🌱 Estoy aprendiendo **[Tecnología que estudias]**.
-- 👯 Busco colaborar en **[Tipo de proyectos open source]**.
-- 💬 Pregúntame sobre **[Tus temas de dominio]**.
-- 📫 Cómo contactarme: **[tu@email.com]**.
-- ⚡ Dato curioso: **[Un dato divertido sobre ti]**.
+- 🔭 Actualmente estoy trabajando en mis proyectos personales.
+- 🌱 Siempre estoy aprendiendo nuevas tecnologías web.
+- 💬 Pregúntame sobre desarrollo y tecnología.
+- 📫 Puedes ver mi trabajo en: **[karpux.dev](https://karpux.dev)**.
 
 ---
 
@@ -40,7 +38,7 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -59,5 +57,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&label=Profile%20Views&color=0e75b6&style=flat" alt="tu-usuario" />
+  <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="tu-usuario" />
 </div>

@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  
+# ¡Hola! 👋 Soy **Karpux**
 
-<!--
-**Karpux/Karpux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador apasionado | 🚀 Creador de soluciones innovadoras
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Siempre explorando nuevas tecnologías y construyendo proyectos increíbles.
+
+🌱 Aprendiendo constantemente y mejorando mis habilidades cada día.
+
+💡 Creo en el poder del código para transformar ideas en realidad.
+
+🤝 Abierto a colaborar en proyectos interesantes y desafiantes.
+
+---
+
+### 📫 ¡Conectemos!
+
+*"El código es poesía escrita con lógica"* ✨
+
+</div>
